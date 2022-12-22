@@ -14,6 +14,7 @@ TIL (Today I Learned)
 - Optional
     - 옵셔널은 값이 없을 수 있는 상황에 사용하는 타입이다. 이는 enum 열거형으로 되어있으며 값이 존재할 때는 some(Type), 값이 존재하지 않는다면 nil로 되어있는 swift의 안정성을 높여주는 타입이다.
     - 옵셔널값을 안전하게 추출하는 방법은 if nil체크, if let 바인딩, 닐 코어레싱 3가지가 존재한다. 만약 안전하게 추출하지 않는다면 런타임에러를 야기시킬 수 있다. 
+    - 옵셔널의 장점은 문서주석을 할 필요없이 이 값이 nil을 갖고있는지 아닌지를 확인할 수 있다.
     - 옵셔널 바인딩은 Boolean 조건식과 같이 사용할 수 있다.<br><br>
     ```swift
         if let firstNumber = Int("4"), let secondNumber = Int("42"),
