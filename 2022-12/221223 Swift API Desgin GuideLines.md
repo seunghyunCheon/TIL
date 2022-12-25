@@ -180,6 +180,7 @@ free function: 명확한 self가 없거나 제약사항이 없는 generic이거�
 - 타입과 프로토콜은 UpperCamelCase를, 다른 모든 것들은 lowerCamelCase를 한다.
     - 미국 영어에서 흔히 대문자로 표시되는 약어와 이니셜은 전부 upper case로 나타나거나 전부 down-case로 나타낸다.  
     <br>
+    
     ```swift
         var utf8Bytes: [UTF8.CodeUnit]
         var isRepresentableAsASCII = true
@@ -187,6 +188,7 @@ free function: 명확한 self가 없거나 제약사항이 없는 generic이거�
     ```
     - 다른 약어는 기존의 단어를 따른다.  
     <br>
+    
     ```swift
         var radarDetector: RadarScanner
         var enjoyScubaDiving = true
@@ -210,7 +212,8 @@ free function: 명확한 self가 없거나 제약사항이 없는 generic이거�
     ```
 
     - 기하 타입과 Collection타입은 분리되어있기 때문에 아래와 같은 방식도 괜찮다.
-<br>
+
+
     ```swift
     extension Collection where Element : Equatable {
       /// Returns `true` if `self` contains an element equal to
@@ -218,8 +221,10 @@ free function: 명확한 self가 없거나 제약사항이 없는 generic이거�
       func contains(_ sought: Element) -> Bool { ... }
     }
     ```
+    
     - 그러나 아래 index메서드들은 다른 의미를 갖고 있기 때문에 이름을 다르게 지어야한다.  
     <br>
+    
     ```swift
     extension Database {
       /// Rebuilds the database's search index
@@ -228,9 +233,11 @@ free function: 명확한 self가 없거나 제약사항이 없는 generic이거�
       /// Returns the `n`th row in the given table.
       func index(_ n: Int, inTable: TableID) -> TableRow { ... }
     }
+    
     ```
     - 마지막으로 리턴타입에 대한 오버로딩을 피해라. 타입추론에 있어 모호성을 주기 때문이다.  
     <br>
+    
     ```swift
     extension Box {
       /// Returns the `Int` stored in `self`, if any, and
