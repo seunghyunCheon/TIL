@@ -118,11 +118,11 @@ sam이라는 변수는 Company의 인스턴스이면서 특정 데이터라고 �
 Pull-down buttons는 다중으로 선택하거나 작업목록을 넣어줘야할때 사용하고 pop-up buttons는 서로 베타적인 메뉴들을 제공할때 사용한다.
 
 ### Reference
-[Swift Language Guide - Property](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
-[HIG - Action Sheet](https://developer.apple.com/documentation/swiftui/actionsheet)
-[HIG - Alert](https://developer.apple.com/design/human-interface-guidelines/components/presentation/alerts)
-[HIG - Pull-down buttons](https://developer.apple.com/design/human-interface-guidelines/components/menus-and-actions/pull-down-buttons)
-[HIG - pop up](https://developer.apple.com/design/human-interface-guidelines/components/menus-and-actions/pop-up-buttons)
-[HIG - Action Sheet](https://developer.apple.com/documentation/uikit/windows_and_screens/getting_the_user_s_attention_with_alerts_and_action_sheets)
+- [Swift Language Guide - Property](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
+- [HIG - Action Sheet](https://developer.apple.com/documentation/swiftui/actionsheet)
+- [HIG - Alert](https://developer.apple.com/design/human-interface-guidelines/components/presentation/alerts)
+- [HIG - Pull-down buttons](https://developer.apple.com/design/human-interface-guidelines/components/menus-and-actions/pull-down-buttons)
+- [HIG - pop up](https://developer.apple.com/design/human-interface-guidelines/components/menus-and-actions/pop-up-buttons)
+- [HIG - Action Sheet](https://developer.apple.com/documentation/uikit/windows_and_screens/getting_the_user_s_attention_with_alerts_and_action_sheets)
 
 ###### tags: `Enum`, `HIG`, `Layout`, `Action Sheet`, `Alert`, `Pull-down buttons`, `pop up`
