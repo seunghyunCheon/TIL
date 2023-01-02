@@ -2,7 +2,7 @@
 
 ## TIL
 - [2022-12](https://github.com/seunghyunCheon/TIL/tree/main/2022-12)
-
+- [2023-01](https://github.com/seunghyunCheon/TIL/tree/main/2023-01)
 ## Subjects
 ### 2022-12
 - [221219 FlowChart, Git, 짝 프로그래밍](https://github.com/seunghyunCheon/TIL/blob/main/2022-12/221219%20FlowChart%2C%20Git%2C%20%EC%A7%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
@@ -14,3 +14,6 @@
 - [221226 캡슐화, 은닉화, Control Flow, Functions, Enumerations](https://github.com/seunghyunCheon/TIL/blob/main/2022-12/221226%20%EC%BA%A1%EC%8A%90%ED%99%94%2C%20%EC%9D%80%EB%8B%89%ED%99%94%2C%20Control%20Flow%2C%20Functions%2C%20Enumerations.md)
 - [221229 Enum, HIG(Layout, Action Sheet, Alert, Pull-down buttons, pop up)](https://github.com/seunghyunCheon/TIL/blob/main/2022-12/221229%20Enum%2C%20HIG(Layout%2C%20Action%20Sheet%2C%20Alert%2C%20Pull-down%20buttons%2C%20pop%20up).md)
 - [221230 Xcode Debug, 재귀함수와 반복문, 꼬리재귀함수](https://github.com/seunghyunCheon/TIL/blob/main/2022-12/221230%20Xcode%20Debug%2C%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EC%99%80%20%EB%B0%98%EB%B3%B5%EB%AC%B8%2C%20%EA%BC%AC%EB%A6%AC%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
+
+### 2023-01
+- [230102 MVC 디자인패턴, initializer, Nested types](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230102%20MVC%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%2C%20initializer%2C%20Nested%20types.md)
