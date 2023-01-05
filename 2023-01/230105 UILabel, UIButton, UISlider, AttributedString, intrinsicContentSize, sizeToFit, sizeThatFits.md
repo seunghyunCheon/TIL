@@ -151,7 +151,7 @@ mainLabel.frame.size = mainLabel.sizeThatFits(view.frame.size)
 - `var minimumValue: Float, var maximumValue: Float`: 슬라이더 양끝단의 값
 - `var value: Float`: 슬라이더의 현재 값
 - `var isContinuous: Bool`: 슬라이더의 연속적인 값 변화에 따라 이벤트 역시 연속적으로 호출할 것인지의 여부
-- `var minimumValueImage: UIImage?, var maximumValueImage: UIImage?:`` 슬라이더 양끝단의 이미지
+- `var minimumValueImage: UIImage?, var maximumValueImage: UIImage?:` 슬라이더 양끝단의 이미지
 
 
 
