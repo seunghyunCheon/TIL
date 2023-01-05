@@ -18,3 +18,4 @@
 ### 2023-01
 - [230102 MVC 디자인패턴, initializer, Nested types](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230102%20MVC%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%2C%20initializer%2C%20Nested%20types.md)
 - [230103 KVO(Key Value Observing), Notification, Access Control](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230103%20KVO(Key%20Value%20Observing),%20Notification,%20Access%20Control.md)
+- [230105 UILabel, UIButton, UISlider, AttributedString, intrinsicContentSize, sizeToFit, sizeThatFits](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230105%20UILabel%2C%20UIButton%2C%20UISlider%2C%20AttributedString%2C%20intrinsicContentSize%2C%20sizeToFit%2C%20sizeThatFits.md)
