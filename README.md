@@ -20,3 +20,4 @@
 - [230103 KVO(Key Value Observing), Notification, Access Control](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230103%20KVO(Key%20Value%20Observing),%20Notification,%20Access%20Control.md)
 - [230105 UILabel, UIButton, UISlider, AttributedString, intrinsicContentSize, sizeToFit, sizeThatFits](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230105%20UILabel%2C%20UIButton%2C%20UISlider%2C%20AttributedString%2C%20intrinsicContentSize%2C%20sizeToFit%2C%20sizeThatFits.md)
 - [230106 Class, Struct, 싱글톤, 딕셔너리, zip, AVFoundation, Timer, Cocoa, UIKit, Foundation](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230106%20Class,%20Struct,%20%EC%8B%B1%EA%B8%80%ED%86%A4,%20%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC,%20zip,%20AVFoundation,%20Timer,%20Cocoa,%20UIKit,%20Foundation.md)
+- [230109 싱글톤, cherry-pick](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230109%20%EC%8B%B1%EA%B8%80%ED%86%A4,%20cherry-pick.md)
