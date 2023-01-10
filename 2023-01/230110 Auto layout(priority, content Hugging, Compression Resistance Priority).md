@@ -43,18 +43,18 @@ TIL (Today I Learned)
 #### Conetent Hugging Vs Compression Resistance Priority
 > 두 오브젝트 중에 하나가 작아져야하는 상황이거나 커져야 하는 상황일 때 어떤 오브젝트가 intrinsic Size를 유지해야 하는지 모르기 때문에 사용하는 속성. intrinsic Size를 유지하고 싶은 객체에게 높은 우선순위값을 주면 된다.
 
-- 01 두 개의 레이블을 라이브러리에서 불러와 왼쪽 레이블은 leading만, 오른쪽 레이블은 trailing만 준다.<br>
-<img src="https://i.imgur.com/BFCkrYe.png" width="500"/>
-- 02 왼쪽 레이블은 trailing을 지정해주고 오른쪽 레이블은 leading을 지정해줘야 한다고 warning이 나온다.
-- 03 오른쪽레이블의 leading을 왼쪽 레이블의 trailing + 8 만큼 설정한다.
-- 04 그럼 다음의 에러를 만나게 된다. 이는 레이블 끼리 서로 leading / trailing을 설정한 경우 둘 중 하나는 Intrinsic Width을 유지하지 못하기 때문이다.<br>
-<img src="https://i.imgur.com/GVOzYVu.png" width="400"/>
-- 05 따라서 두 개의 객체 중에 하나가 커져야하는 상황일 때 intrinsic Size를 유지하고 싶은 객체에 더 높은 Hugging priority를 부여하면 된다.
-- 06 01단계에서의 priority체크에 Hugging Priority를 낮춘다면 다음의 사진처럼 보이게 된다.<br>
-<img src="https://i.imgur.com/ofHOnpj.png" width="500"/>
-- 07 priority체크레이블의 텍스트가 엄청 길어져서 priority체크2 레이블을 침범하게 된다면 다음과 사진처럼 보이게 된다.<br>
-<img src="https://i.imgur.com/HBmxLRb.png" width="500"/>
-- 08 둘 중 하나가 커져야하는 경우는 hugging을 통해 우선순위를 결정해줬지만 둘 중 하나가 작아져야하는 경우는 설정해주지 않았다. 이때 사용하는 priority가 Compression Resistance Priority다. priority체크2는 영역에 침범되지 않아야하므로 compression에 대해 우선순위를 높게 준다면 영역이 가려지지않고 잘 보일 것이다.<br>
+#### 01 두 개의 레이블을 라이브러리에서 불러와 왼쪽 레이블은 leading만, 오른쪽 레이블은 trailing만 준다.<br>
+<img src="https://i.imgur.com/BFCkrYe.png" width="500"/><br>
+#### 02 왼쪽 레이블은 trailing을 지정해주고 오른쪽 레이블은 leading을 지정해줘야 한다고 warning이 나온다.
+#### 03 오른쪽레이블의 leading을 왼쪽 레이블의 trailing + 8 만큼 설정한다.
+#### 04 그럼 다음의 에러를 만나게 된다. 이는 레이블 끼리 서로 leading / trailing을 설정한 경우 둘 중 하나는 Intrinsic Width을 유지하지 못하기 때문이다.<br>
+<img src="https://i.imgur.com/GVOzYVu.png" width="400"/><br>
+#### 05 따라서 두 개의 객체 중에 하나가 커져야하는 상황일 때 intrinsic Size를 유지하고 싶은 객체에 더 높은 Hugging priority를 부여하면 된다.
+#### 06 01단계에서의 priority체크에 Hugging Priority를 낮춘다면 다음의 사진처럼 보이게 된다.<br>
+<img src="https://i.imgur.com/ofHOnpj.png" width="500"/><br>
+#### 07 priority체크레이블의 텍스트가 엄청 길어져서 priority체크2 레이블을 침범하게 된다면 다음과 사진처럼 보이게 된다.<br>
+<img src="https://i.imgur.com/HBmxLRb.png" width="500"/><br>
+#### 08 둘 중 하나가 커져야하는 경우는 hugging을 통해 우선순위를 결정해줬지만 둘 중 하나가 작아져야하는 경우는 설정해주지 않았다. 이때 사용하는 priority가 Compression Resistance Priority다. priority체크2는 영역에 침범되지 않아야하므로 compression에 대해 우선순위를 높게 준다면 영역이 가려지지않고 잘 보일 것이다.<br>
 <img src="https://i.imgur.com/nVxBV0n.png" width="500"/>
 
 
