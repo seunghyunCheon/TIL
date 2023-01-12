@@ -97,3 +97,8 @@ if let viewController = storyboard.instantiateViewController(identifier: "imageV
 7. viewDidLoad를 호출하여줌.
 
 ###### tags: `Auto layout`
+
+#### Reference
+- [ViewController](https://melod-it.gitbook.io/sagwa/app-frameworks/uikit/view-controllers/uiviewcontroller)
+- [Apple Developer Documentation - UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller)
+- [loadView](https://medium.com/yay-its-erica/viewdidload-vs-loadview-swift3-47f4ad195602)
