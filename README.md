@@ -23,3 +23,4 @@
 - [230109 싱글톤, cherry-pick](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230109%20%EC%8B%B1%EA%B8%80%ED%86%A4,%20cherry-pick.md)
 - [230111 Auto layout
 ](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230111%20Auto%20layout.md)
+- [230112 Navigation in Modal, 싱글톤 static let, ARC(Automatic Reference Counting)](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230112%20Navigation%20in%20Modal%2C%20%EC%8B%B1%EA%B8%80%ED%86%A4%20static%20let%2C%20ARC(Automatic%20Reference%20Counting).md)
