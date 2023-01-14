@@ -71,6 +71,7 @@ class MyView: UIView {
 }
 ```
 - 스토리보드에서 view의 클래스를 MyView로 설정해준다.
+
 <img src="https://i.imgur.com/SAh6weL.png" width="250"/><br>
 
 #### CHCR
@@ -98,6 +99,7 @@ class MyView: UIView {
 - 05 첫번째 view의 width제약사항을 준 곳을 Equal이 아닌 Equal than Greater로 준다.
 
 마지막에 Equal than Greater로 준 이유는 최소150포인트만 충족시킨다면 오른쪽이 2배크기가 되는 것이 충족되어야 할 제약이기 때문이다. 이렇게 하면 가로로 방향전환을 해도 2배크기를 가질 수 있게 된다.
+
 <img src="https://i.imgur.com/L0UMhVJ.png" width="350"/><br>
 
 #### autoLayout 예제
