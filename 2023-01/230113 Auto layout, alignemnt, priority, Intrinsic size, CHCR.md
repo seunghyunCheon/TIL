@@ -110,4 +110,4 @@ class MyView: UIView {
 ###### tags: `Auto layout`, `alignment`, `priority`, `Intrinsic size`, `CHCR`
 
 ### reference
-[오토 레이아웃](https://yagom.net/courses/autolayout/)
+[야곰닷넷 - 오토 레이아웃](https://yagom.net/courses/autolayout/)
