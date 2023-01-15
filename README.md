@@ -25,4 +25,4 @@
 ](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230111%20Auto%20layout.md)
 - [230112 Navigation in Modal, 싱글톤 static let, ARC(Automatic Reference Counting)](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230112%20Navigation%20in%20Modal%2C%20%EC%8B%B1%EA%B8%80%ED%86%A4%20static%20let%2C%20ARC(Automatic%20Reference%20Counting).md)
 - [230113 Auto layout, alignemnt, priority, Intrinsic size, CHCR](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230113%20Auto%20layout%2C%20alignemnt%2C%20priority%2C%20Intrinsic%20size%2C%20CHCR.md)
-- [](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230115%20Auto%20layout%20(StackView),%20Protocol,%20Delegation,%20required%20InitialLizer.md)
+- [230115 Auto layout (StackView), Protocol, Delegation, required InitialLizer](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230115%20Auto%20layout%20(StackView),%20Protocol,%20Delegation,%20required%20InitialLizer.md)
