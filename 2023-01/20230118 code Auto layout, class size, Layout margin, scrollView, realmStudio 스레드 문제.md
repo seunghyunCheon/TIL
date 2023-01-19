@@ -132,7 +132,9 @@ var layoutMargins: UIEdgeInsets { get set }
 <img src="https://i.imgur.com/6a79bFt.png" width="600"/>
 - Realm파일은 접근 공유를 할 수 없는데 다른 프로세스에서 열려있기 때문에 발생하는 문제였다. 그래서 realmSwift를 키지않은 상태로 앱을 구동한 후 realm을 이용해 데이터 CRUD를 하고 앱을 종료시킨 뒤 데이터가 제대로 들어왔는지 확인해야 했다. 
 #### 음.. 그럼 앱 전역에서 realm을 사용하고 있다면 앱 구동하는 동안 realm Swift를 절대 못 쓰는건가?
+
 - realm을 전역으로 사용하는 것이 아닌 함수 내부에서 지역변수로 설정해 함수호출이 끝나면 realm이 존재하지 않도록 설정했다.
+
 ```swift
 func okButtonTapped() {
     let realm = try! Realm()
@@ -154,8 +156,6 @@ func okButtonTapped() {
 ```
 - realm에 데이터를 삽입하고 tabBar로 이동하면서 okButtonTapped는 더이상 realm객체를 참조하고 있지 않게 되었다. 결과는 탭바로 이동한 후에 realmSwift파일을 열어보니 crash나지않고 잘 열리는 것을 볼 수 있었다.
 - 하지만 realm을 사용하는 앱 서비스에서는 상시로 사용하기 때문에 보통 전역으로 선언해야 하고 이는 앱을 종료한 후에 테스트를 해야 한다는 뜻과 같다.
-
-
 
 
 
