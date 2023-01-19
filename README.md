@@ -29,3 +29,4 @@
 - [230116 protocol get/set, Equatable, Hashable, Comparable, protocol, extension, protocol composition](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230116%20protocol%20get%2C%20set%2C%20Equatable%2C%20Hashable%2C%20Comparable%2C%20protocol%2C%20extension%2C%20protocol%20composition.md)
 - [230117 UML(클래스 다이어그램)](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230117%20UML(%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8).md)
 - [230118 code Auto layout, class size, Layout margin, scrollView, realmStudio 스레드 문제](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230118%20code%20Auto%20layout,%20class%20size,%20Layout%20margin,%20scrollView,%20realmStudio%20%EC%8A%A4%EB%A0%88%EB%93%9C%20%EB%AC%B8%EC%A0%9C.md)
+- [230119 Dynamic type, UITraitEnvironment, isaccessibilityCategory](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230119%20Dynamic%20type%2C%20UITraitEnvironment%2C%20isaccessibilityCategory.md)
