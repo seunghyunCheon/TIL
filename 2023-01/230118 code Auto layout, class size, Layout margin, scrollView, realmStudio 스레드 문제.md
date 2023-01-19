@@ -1,4 +1,4 @@
-20230118 code Auto layout, class size, Layout margin, scrollView, realmStudio 스레드 문제
+230118 code Auto layout, class size, Layout margin, scrollView, realmStudio 스레드 문제
 ===
 TIL (Today I Learned)
 ===
