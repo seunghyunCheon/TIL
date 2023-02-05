@@ -80,6 +80,8 @@ unitA = Apartment(unit: "4A")
 <img src="https://i.imgur.com/2adCdey.png" width="500"/>
 - 만약 john과 unitA변수에 nil을 할당한다면 ARC는 자동으로 deallocate할 것이다.
 - 하지만 다음의 코드를 추가하게 되면 문제가 생긴다.
+
+
 ```swift
 john!.apartment = unit4A
 unit4A!.tenant = john
