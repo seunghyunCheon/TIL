@@ -41,3 +41,4 @@
 
 ### 2023-02
 - [230205 메모리구조, ARC, map, filter, reduce](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230205%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0%2C%20ARC%2C%20map%2C%20filter%2C%20reduce.md)
+- [230206 NSNumber, UIStackView, UIScrollView](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230206%20NSNumber%2C%20UIStackView%2C%20UIScrollView.md)
