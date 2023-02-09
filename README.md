@@ -43,3 +43,5 @@
 - [230205 메모리구조, ARC, map, filter, reduce](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230205%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0%2C%20ARC%2C%20map%2C%20filter%2C%20reduce.md)
 - [230206 NSNumber, UIStackView, UIScrollView](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230206%20NSNumber%2C%20UIStackView%2C%20UIScrollView.md)
 - [230207 WWDC Understanding Swift Performance](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230207%20WWDC%20Understanding%20Swift%20Performance.md)
+- [230209 UIApplicationDelegate, UISceneDelgate, WWDC Architecting Your App for multiple windows
+](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230209%20UIApplicationDelegate%2C%20UISceneDelgate%2C%20WWDC%20Architecting%20Your%20App%20for%20multiple%20windows.md)
