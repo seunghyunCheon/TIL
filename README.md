@@ -45,3 +45,4 @@
 - [230207 WWDC Understanding Swift Performance](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230207%20WWDC%20Understanding%20Swift%20Performance.md)
 - [230209 UIApplicationDelegate, UISceneDelgate, WWDC Architecting Your App for multiple windows
 ](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230209%20UIApplicationDelegate%2C%20UISceneDelgate%2C%20WWDC%20Architecting%20Your%20App%20for%20multiple%20windows.md)
+- [230210 클로저(closure), 메모리 누수 디버깅](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230210%20%ED%81%B4%EB%A1%9C%EC%A0%80(closure),%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%88%84%EC%88%98%20%EB%94%94%EB%B2%84%EA%B9%85.md)
