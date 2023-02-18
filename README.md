@@ -47,3 +47,4 @@
 ](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230209%20UIApplicationDelegate%2C%20UISceneDelgate%2C%20WWDC%20Architecting%20Your%20App%20for%20multiple%20windows.md)
 - [230210 클로저(closure), 메모리 누수 디버깅](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230210%20%ED%81%B4%EB%A1%9C%EC%A0%80(closure),%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%88%84%EC%88%98%20%EB%94%94%EB%B2%84%EA%B9%85.md)
 - [230217 SwiftSoup 라이브러리 번역하고 학습하기](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230217%20SwiftSoup%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EB%B2%88%EC%97%AD%ED%95%98%EA%B3%A0%20%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0.md)
+- [230218 제네릭(Generics)](https://github.com/seunghyunCheon/TIL/tree/main/2023-02)
