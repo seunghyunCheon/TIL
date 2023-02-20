@@ -48,3 +48,6 @@
 - [230210 클로저(closure), 메모리 누수 디버깅](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230210%20%ED%81%B4%EB%A1%9C%EC%A0%80(closure),%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%88%84%EC%88%98%20%EB%94%94%EB%B2%84%EA%B9%85.md)
 - [230217 SwiftSoup 라이브러리 번역하고 학습하기](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230217%20SwiftSoup%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EB%B2%88%EC%97%AD%ED%95%98%EA%B3%A0%20%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0.md)
 - [230218 제네릭(Generics)](https://github.com/seunghyunCheon/TIL/tree/main/2023-02)
+- [230219 Table views, Filling a table with data, JSON, Codable, JSONDecoder, Using JSON with Custom Types, Encoding and Decoding Custom Types 아티클
+](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230219%20Table%20views%2C%20Filling%20a%20table%20with%20data%2C%20JSON%2C%20Codable%2C%20JSONDecoder%2C%20Using%20JSON%20with%20Custom%20Types%2C%20Encoding%20and%20Decoding%20Custom%20Types%20%EC%95%84%ED%8B%B0%ED%81%B4.md)
+
