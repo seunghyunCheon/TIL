@@ -124,3 +124,4 @@ Serial환경에서 비동기로 처리할 수도, 동기로 처리할 수도 있
 - [Apple Archive - Concurrency and Application Design](https://developer.apple.com/library/archive/documentation/General/Conceptual/ConcurrencyProgrammingGuide/ConcurrencyandApplicationDesign/ConcurrencyandApplicationDesign.html#//apple_ref/doc/uid/TP40008091-CH100-SW1)
 - [Apple Developer Documentation - instantiateviewcontroller](https://developer.apple.com/documentation/uikit/uistoryboard/3213989-instantiateviewcontroller)
 - [UIViewController 서브클래스의 custom initializer 만들기](https://velog.io/@dev_jane/UIViewController-%EC%84%9C%EB%B8%8C%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98-custom-initializer-%EB%A7%8C%EB%93%A4%EA%B8%B0required-initializer-initcoder-must-be-provided-by-subclass-of-UIViewController)
+- [야곰닷넷 - 동시성프로그래밍](https://yagom.net/courses/%eb%8f%99%ec%8b%9c%ec%84%b1-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-concurrency-programming/)
