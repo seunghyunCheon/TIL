@@ -1,5 +1,4 @@
 230226 GCD, main.sync는 왜 오류를 발생시킬까?
-TIL (Today I Learned)
 ===
 학습내용
 ---
