@@ -1,4 +1,4 @@
-20230227 nib vs xib, archive, awakeFromNib, Self-Sizing Table View Cells
+230227 nib vs xib, archive, awakeFromNib, Self-Sizing Table View Cells
 ===
 학습내용
 ---
