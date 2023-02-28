@@ -1,4 +1,4 @@
-20230228 Self-Sizing Table View Cell - 2, WWDC - Accessibility Insepector, WWDC - Writing Great Accessibility Labels
+230228 Self-Sizing Table View Cell - 2, WWDC - Accessibility Insepector, WWDC - Writing Great Accessibility Labels
 ===
 학습내용
 ---
