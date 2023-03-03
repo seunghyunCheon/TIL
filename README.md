@@ -63,6 +63,6 @@
 
 
 ### 2023-03
-- [HIG - typography](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230301%20HIG%20-%20Typography.md)
+- [230301 HIG - typography](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230301%20HIG%20-%20Typography.md)
 - [230302 Accessibility Programming Guide for iOS 읽기, GCD(QoS, async, DispatchGroup, thread Safe, DispatchSemaphore)
 ](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230302%20Accessibility%20Programming%20Guide%20for%20iOS%20%EC%9D%BD%EA%B8%B0%2C%20GCD(QoS%2C%20async%2C%20DispatchGroup%2C%20thread%20Safe%2C%20DispatchSemaphore%2C%20mainThread%20RunLoop).md)
