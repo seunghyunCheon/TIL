@@ -106,8 +106,8 @@ extension ContainContents {
 }
 ```
 
-그래서 관계도는 다음과 같이 그려진다
-<img src="https://i.imgur.com/DSHpjdR.jpg" width="500"/>
+그래서 관계도는 다음과 같이 그려진다<br/>
+<img src="https://i.imgur.com/DSHpjdR.jpg" width="500"/><br/>
 
 처음에는 왜 굳이 싱글턴 객체를 사용하는 걸까 생각을 해봤는데 관계로를 보니 책임을 명확하게 나누고 싶은 이유지 않을까 싶었다.
 
