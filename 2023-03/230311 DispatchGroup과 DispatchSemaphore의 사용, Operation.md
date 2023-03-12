@@ -282,3 +282,4 @@ func addOperation(_ block: @escaping () -> Void)
 
 ### 참고자료
 - [DispatchGroup과 DispatchSemaphore](https://qteveryday.tistory.com/308)
+- [야곰닷넷 - 동시성프로그래밍](https://yagom.net/courses/%eb%8f%99%ec%8b%9c%ec%84%b1-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-concurrency-programming/)
