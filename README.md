@@ -71,3 +71,4 @@
 - [230310 데드락(Deadlock, 세마포어)](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230310%20%EB%8D%B0%EB%93%9C%EB%9D%BD(Deadlock)%2C%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4.md)
 - [230312 HTTP](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230312%20HTTP.md)
 - [230313 로컬 네트워크, 사설IP, 공인IP, 라우터, 포트포워딩, IPV4, 서브넷마스크](https://github.com/seunghyunCheon/TIL/tree/main/2023-03)
+- [230314 Responder chain, Touches, presses, and gestures](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230314%20Responder%20chain%2C%20Touches%2C%20presses%2C%20and%20gestures.md)
