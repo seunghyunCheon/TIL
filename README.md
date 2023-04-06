@@ -73,7 +73,7 @@
 - [230313 로컬 네트워크, 사설IP, 공인IP, 라우터, 포트포워딩, IPV4, 서브넷마스크](https://github.com/seunghyunCheon/TIL/tree/main/2023-03)
 - [230314 Responder chain, Touches, presses, and gestures](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230314%20Responder%20chain%2C%20Touches%2C%20presses%2C%20and%20gestures.md)
 - [230316 escaping, [weak self], Operation, OperationQueue](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230316%20escaping%2C%20%5Bweak%20self%5D%2C%20Operation%2C%20OperationQueue.md)
-- [230317 Responder Chain, Gesture Recognizer](https://github.com/seunghyunCheon/TIL/tree/main/2023-03)
+- [230317 Responder Chain, Gesture Recognizer](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230317%20Responder%20Chain%2C%20Gesture%20Recognizer.md)
 - [230318 Fetching Website Data into Memory](https://github.com/seunghyunCheon/TIL/tree/main/2023-03)
 - [230320 Mock을 이용한 Network Unit Test](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230320%20Mock%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20Network%20Unit%20Test.md)
 - [230321 UICollectionView, URLsession이 비동기적으로 작업을 처리하는 이유](https://github.com/seunghyunCheon/TIL/blob/main/2023-03/230321%20UICollectionView%2C%20URLsession%EC%9D%B4%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9E%91%EC%97%85%EC%9D%84%20%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
