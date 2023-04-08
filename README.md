@@ -38,7 +38,7 @@
 - [230124 Queue Data Structure(LinkedList, Array, head, Double Stack)](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230124%20Queue%20Data%20Structure(LinkedList%2C%20Array%2C%20head%2C%20Double%20Stack).md)
 - [230125 SOLID(SRP, OCP, LSP, ISP, DIP)](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230125%20SOLID(SRP%2C%20OCP%2C%20LSP%2C%20ISP%2C%20DIP).md)
 - [230129 LLDB](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230129%20LLDB.md)
-- [230130 LLDB tutorial, WWDC Advanced Debugging with Xcode and LLDB]([https://github.com/seunghyunCheon/TIL/tree/main/2023-01](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230130%20LLDB%20tutorial%2C%20WWDC%20Advanced%20Debugging%20with%20Xcode%20and%20LLDB.md)
+- [230130 LLDB tutorial, WWDC Advanced Debugging with Xcode and LLDB]([https://github.com/seunghyunCheon/TIL/tree/main/2023-01](https://github.com/seunghyunCheon/TIL/blob/main/2023-01/230130%20LLDB%20tutorial%2C%20WWDC%20Advanced%20Debugging%20with%20Xcode%20and%20LLDB.md))
 
 ### 2023-02
 - [230205 메모리구조, ARC, map, filter, reduce](https://github.com/seunghyunCheon/TIL/blob/main/2023-02/230205%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0%2C%20ARC%2C%20map%2C%20filter%2C%20reduce.md)
