@@ -1,4 +1,4 @@
-2304011 UIView, Drawing and Printing Guide for iOS, Drawing Cycle, WWDC- High Performance Auto Layout
+230411 UIView, Drawing and Printing Guide for iOS, Drawing Cycle, WWDC- High Performance Auto Layout
 ===
 학습내용
 - UIView
