@@ -1,4 +1,4 @@
-2304010 Cache-Control과 Etag, Caching best practice
+230410 Cache-Control과 Etag, Caching best practice
 ===
 학습내용
 - Cache-Control과 Etag
