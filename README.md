@@ -1,7 +1,7 @@
 # Today I Leanred(TIL)
 
 > 오늘 학습한 내용을 기록합니다.
->  잘못된 내용과 생각이 적혀 있다면 공유 부탁드립니다
+>  잘못된 내용과 생각이 적혀 있다면 공유 부탁드리겠습니다😊
 
 ## TIL
 - [2022-12](https://github.com/seunghyunCheon/TIL/tree/main/2022-12)
