@@ -1,4 +1,4 @@
-# 20230526 요구사항에 맞는 레이아웃 설계, 프로젝트를 통해 알게 된 Combine, MVVM, Compositional Layout 개념
+# 230526 요구사항에 맞는 레이아웃 설계, 프로젝트를 통해 알게 된 Combine, MVVM, Compositional Layout 개념
 ### 학습내용
 - 요구사항에 맞는 레이아웃 설계
 - 프로젝트를 통해 알게 된 Combine, MVVM, Compositional Layout 개념
