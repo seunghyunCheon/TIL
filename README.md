@@ -111,3 +111,4 @@
 - [230516 Combine - Publisher, Subscriber, Subject](https://github.com/seunghyunCheon/TIL/blob/main/2023-05/230516%20Combine%20-%20Publisher%2C%20Subscriber%2C%20Subject.md)
 - [230517 Combine - Scheduler, Cancellable](https://github.com/seunghyunCheon/TIL/blob/main/2023-05/230517%20Combine%20-%20Scheduler%2C%20Cancellable.md)
 - [230524 Swift Concurrency](https://github.com/seunghyunCheon/TIL/blob/main/2023-05/230524%20Swift%20Concurrency.md)
+- [230526 요구사항에 맞는 레이아웃 설계, 프로젝트를 통해 알게 된 Combine, MVVM, Compositional Layout 개념](https://github.com/seunghyunCheon/TIL/blob/main/2023-05/20230526%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20%EC%84%A4%EA%B3%84,%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC%20%ED%86%B5%ED%95%B4%20%EC%95%8C%EA%B2%8C%20%EB%90%9C%20Combine,%20MVVM,%20Compositional%20Layout%20%EA%B0%9C%EB%85%90.md)
