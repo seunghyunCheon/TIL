@@ -115,3 +115,4 @@
 
 ### 2023-06
 - [230602 DiffableDatsSource 여러개의 아이템이 리로드되는 문제,  Event Stream이 끊어지는 문제](https://github.com/seunghyunCheon/TIL/blob/main/2023-06/230602%20DiffableDatsSource%20%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%9D%98%20%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%B4%20%EB%A6%AC%EB%A1%9C%EB%93%9C%EB%90%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C%2C%20%20Event%20Stream%EC%9D%B4%20%EB%81%8A%EC%96%B4%EC%A7%80%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)
+- [WWDC - AVKit, kodeco - AVFoundation(비디오 녹화하고 실행)](https://github.com/seunghyunCheon/TIL/blob/main/2023-06/230605%20WWDC%20-%20AVKit%2C%20kodeco%20-%20AVFoundation(%EB%B9%84%EB%94%94%EC%98%A4%20%EB%85%B9%ED%99%94%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89).md)
