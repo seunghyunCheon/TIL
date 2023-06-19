@@ -6,10 +6,10 @@
 소프트웨어를 개발할 때 디자인패턴 뿐만 아니라 아키텍처 패턴도 중요하다.
 소프트웨어 엔지니어링에서는 많은 다양한 아키텍처 패턴이 존재한다. 모바일 분야에서는 가장 널리 사용되는 것은 MVVM, Clean Architecture 및 Redux 패턴이다.
 
-<img src="https://hackmd.io/_uploads/SyFbY_Bv2.png" width="500"/><br/>
+<img src="https://github.com/seunghyunCheon/TIL/assets/70146658/5c043c8f-515f-4aac-b03c-f9121ba01fdf" width="500"/></br>
 위 사진처럼 다양한 레이어가 존재한다. 중요한 규칙은 내부 레이어가 외부 레이어를 알지 못하는 것이다. 바깥에서 안쪽으로의 화살표가 의존성 규칙이다. 외부에서 내부로만 종속성이 있을 수 있는 것이다.
 
-<img src="https://hackmd.io/_uploads/S1Yk9OBv2.png" width="500"/><br/>
+<img src="https://github.com/seunghyunCheon/TIL/assets/70146658/f2d89962-d2bc-488a-8b3c-6c519ffebb93" width="500"/><br/>
 
 ### Domain Layer
 도메인 계층은 가장 안쪽 레이어다. 이곳에서는 `Entities`, `UseCases`, `Interfaces`를 포함하고 있다. 이 레이어는 다른 프로젝트에서도 재사용될 수 있다. 이러한 분리는 종속성이 필요하지 않기 때문에 테스트 대상 내에서 호스트 앱을 사용하지 않도록 허용한다. 이렇게 하면 도메인을 테스트를 하는데 몇초밖에 걸리지 않는다. 
@@ -24,7 +24,7 @@ UI(UIViewController, SwiftUI)를 포함한다. 뷰들은 뷰모델(Presenter)에
 Repository 구현과 하나이상의 Data Source를 포함한다. 레포지토리들은 서로 다른 데이터 소스의 데이터 조정을 담당한다. 데이터 소스는 Remote나 Local이 될 수 있다. 
 데이터 레이어는 오직 Domain Layer에 의존한다. 이 계층에서 네트워크 Json Data의 매핑을 추가할 수도 있다.
 
-<img src="https://hackmd.io/_uploads/Hk8aAOSw3.png" width="500"/><br/>
+<img src="https://github.com/seunghyunCheon/TIL/assets/70146658/730df737-15f6-4f7a-ba71-301b61d90d1c" width="500"/><br/>
 1. View는 ViewModel의 메서드를 호출한다.
 2. ViewModel은 UseCase를 실행한다.
 3. UseCase는 사용자 및 리포지토리의 데이터를 결합한다.
@@ -41,7 +41,7 @@ Data Repositories Layer = Repositories Implementations + API(Network) + Persiste
 
 
 ### 예시 앱
-<img src="https://hackmd.io/_uploads/Bk3VoqIPh.png" width="500"/><br/>
+<img src="https://github.com/seunghyunCheon/TIL/assets/70146658/b2533e83-45f2-4deb-8421-e856e99c6340" width="500"/><br/>
 
 도메인 레이어에는 엔티티와 유즈케이스가 존재한다. 이 유즈케이스는 영화를 검색하고 최신영화검색기록을 저장한다.
 
@@ -359,7 +359,7 @@ Model-View-ViewModel 패턴은 UI와 도메인 사이의 관심사를 분리한�
 클린아키텍처와 함께 이 패턴을 사용할 때 Presentation과 UI Layer사이의 관심사를 분리하는데 도움을 준다.
 
 여러개의 뷰들은 하나의 뷰모델에 대응될 수 있다. 예를 들어 CarsAroundListView와 CarsAroundMapView는 둘 다 CarsAroundViewModel을 사용할 수 있다. 또한 어떤 뷰는 UIKit으로 또 어떤 뷰는 SwiftUI로 작성할 수 있다. 뷰모델에서는 UIKit, WatchKit, SwiftUI를 import하지 않는 것이 중요하다. 
-<img src="https://hackmd.io/_uploads/HyHRjUpD2.png" width="500"/><br/>
+<img src="https://github.com/seunghyunCheon/TIL/assets/70146658/4416a530-4613-4980-81be-7bd8c211b61d" width="500"/><br/>
 
 뷰와 뷰모델 사이의 데이터바인딩은 클로저, 델리게이트, observable(RxSwift)를 통해 할 수 있다. 컴바인과 SwiftUI조합은 최소 배포타겟이 iOS13이상인 경우에 사용할 수 있다. 
 
@@ -461,7 +461,7 @@ final class MoviesListItemCell: UITableViewCell {
 #### Delegation
 MVVM의 뷰모델은 다른화면의 뷰모델과 delegation을 통해 소통한다.
 
-<img src="https://hackmd.io/_uploads/rJbLUv6Dn.png" width="500"/><br/>
+<img src="https://github.com/seunghyunCheon/TIL/assets/70146658/a895b295-0052-4cc4-acca-93f8b04bbc81" width="500"/><br/>
 
 예를 들어 `ItemListViewModel`과 `ItemEditViewModel`이 존재한다고 가정해보자. 그렇다면 `ItemEditVideModelDelegate`프로토콜을 만들어서 ListItemViewModel가 이를 채택하여 대리자가 되게 만들 수 있다. 
 
