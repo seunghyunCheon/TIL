@@ -1,7 +1,6 @@
 # Today I Leanred(TIL)
 
 > 오늘 학습한 내용을 기록합니다.
->  잘못된 내용과 생각이 적혀 있다면 공유 부탁드리겠습니다😊
 
 ## TIL
 - [2022-12](https://github.com/seunghyunCheon/TIL/tree/main/2022-12)
@@ -120,3 +119,4 @@
 - [230612 Clean Architecture and MVVM on iOS](https://github.com/seunghyunCheon/TIL/blob/main/2023-06/230612%20Clean%20Architecture%20and%20MVVM%20on%20iOS.md)
 - [230620 Coordinator Pattern, Coordinator pattern with Tab Bar Controller](https://github.com/seunghyunCheon/TIL/blob/main/2023-06/230620%20Coordinator%20Pattern%2C%20Coordinator%20pattern%20with%20Tab%20Bar%20Controller.md)
 - [230624 Key-Value Observing in the age of Swift, Performing Key-Value Observing with Combine](https://github.com/seunghyunCheon/TIL/blob/main/2023-06/230624%20Key-Value%20Observing%20in%20the%20age%20of%20Swift%2C%20Performing%20Key-Value%20Observing%20with%20Combine.md)
+- [230625 AVPlayer의 내부 객체의 특정 프로퍼티에 KVO Publisher가 적용되지 않는 문제](https://github.com/seunghyunCheon/TIL/blob/main/2023-06/230625%20AVPlayer%EC%9D%98%20%EB%82%B4%EB%B6%80%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%ED%8A%B9%EC%A0%95%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%97%90%20KVO%20Publisher%EA%B0%80%20%EC%A0%81%EC%9A%A9%EB%90%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)
