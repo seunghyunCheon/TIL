@@ -125,3 +125,4 @@
 
 ### 2023-07
 - [230712 프로젝트에 custom Font 적용하기](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230712%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%20custom%20Font%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [230720 map과 flatMap](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230720%20Combine%20map%EA%B3%BC%20flatMap.md)
