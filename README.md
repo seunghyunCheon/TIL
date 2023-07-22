@@ -126,3 +126,4 @@
 ### 2023-07
 - [230712 프로젝트에 custom Font 적용하기](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230712%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%20custom%20Font%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [230720 map과 flatMap](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230720%20Combine%20map%EA%B3%BC%20flatMap.md)
+- [230722 DTO는 무엇이고 왜 사용하는 걸까?](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230722%20DTO%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%EC%99%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B1%B8%EA%B9%8C%3F.md)
