@@ -128,3 +128,4 @@
 - [230720 map과 flatMap](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230720%20Combine%20map%EA%B3%BC%20flatMap.md)
 - [230722 DTO는 무엇이고 왜 사용하는 걸까?](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230722%20DTO%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%20%EC%99%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B1%B8%EA%B9%8C%3F.md)
 - [230727 코어데이터 newBackgroundContext](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230727%20%EC%BD%94%EC%96%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%20newBackgroundContext.md)
+- [230728 클린아키텍처에서 뷰모델과 유즈케이스의 역할](https://github.com/seunghyunCheon/TIL/blob/main/2023-07/230728%20%ED%81%B4%EB%A6%B0%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%97%90%EC%84%9C%20%EB%B7%B0%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%9C%A0%EC%A6%88%EC%BC%80%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
